@@ -4,7 +4,7 @@ This project is Blockchain based project where I have created a ToDo List applic
 
 The Front page of the application will have a tab to add a new task
 <p align="center">
-  <img src="https://github.com/dhwanitsharma/ethereum_ToDoList/tree/master/images/TodoList1.JPG" width="350" title="hover text">
+  <img src="https://github.com/dhwanitsharma/ethereum_ToDoList/tree/master/images/TodoList1.png" width="350" title="hover text">
 </p>
 
 
