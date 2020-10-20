@@ -12,7 +12,7 @@ After adding a task we will have to pay the GAS price to commit the changes in t
 
 We can complete a task, by clicking on the box of the task. This will also cost us a GAS price as we need to make the changes on the blockchain.
 
-![Optional Text](../master/images/TodoList3.png)
+![Optional Text](../master/images/TodoList4.png)
 
 
 ### Tools Used
